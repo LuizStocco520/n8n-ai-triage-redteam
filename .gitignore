@@ -1,0 +1,6 @@
+# Segredos: nunca publicar
+.env
+**/.env
+# Exportações do promptfoo que levam o endereço do n8n (JSON) ou o e-mail (HTML)
+redteam/resultados/*.json
+redteam/resultados/*.html
