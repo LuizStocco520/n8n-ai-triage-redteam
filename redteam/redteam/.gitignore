@@ -1,5 +1,0 @@
-# Segredos: nunca publicar
-.env
-# Exportações que levam o endereço do n8n (JSON) ou o seu e-mail (HTML)
-resultados/*.json
-resultados/*.html
